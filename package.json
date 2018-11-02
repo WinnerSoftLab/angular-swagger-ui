@@ -24,7 +24,7 @@
         "angular": ">=1.5.0 <2",
         "angular-sanitize": ">=1.5.0 <2",
         "angular-ui-bootstrap": "~2.4",
-        "bootstrap-less-only": "~3.3"
+        "bootstrap-less": "~3.3"
     },
     "devDependencies": {
         "glob": "^4.3.5",
